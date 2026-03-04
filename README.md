@@ -3,9 +3,11 @@
 ### 👤 Get to Know Me:
 I'm Zahemen Benjamin Anongo from Benue state, Nigeria.
 
-- 🔭 I’m learning Python for Data Analysis.
-- 📚I'm currently learning and working on projects that involves Exploratory data analysis, feature engineering, Geospatial anaylsis and geocoding.
-- ⚡ In my free time, I watch documentaries and read books.
+🔬 Python for data analysis and research applications.
+📊 Experience in exploratory data analysis, feature engineering, and geospatial analytics.
+🛠 Tools: Pandas | NumPy | Scikit-Learn | Matplotlib | Google Geocoding API
+💻 Comfortable with Jupyter Notebook, Google Colab, Excel, and collaborative workflows.
+⚡ I enjoy documentaries and books outside of coding.
 
 ---
 
